@@ -29,6 +29,8 @@ def main():
 
 #"Al Fascismo no se le discute, se le destruye." Buenaventura Durruti
 
+#StegoSuite
+
 #run
 if __name__ == "__main__":
 	main()
